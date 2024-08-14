@@ -1,0 +1,8 @@
+maintenance: false
+status: "&c&l維修中"
+prefix: "&e維修 &8> "
+enabled: "&e維修中!"
+disabled: "&a已開放!"
+kick-message: "&c伺服器維修中!"
+reload: "&a設定已重載!"
+no-permission: "&c你沒有權限!"
